@@ -5,7 +5,7 @@ class MediaAritimetica:
         self.numOne = numOne
         self.numTwo = numTwo
 
-        result = (numOne + numTwo) / 2
+        result = (self.numOne + self.numTwo) / 2
 
         print(result)
 
